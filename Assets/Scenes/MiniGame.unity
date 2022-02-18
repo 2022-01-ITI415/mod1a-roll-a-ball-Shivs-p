@@ -787,7 +787,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3963738881500966583, guid: a09705283f7e7424794c48949909d8f0, type: 3}
       propertyPath: m_Name
-      value: Pick Up  (13)
+      value: Pick Up (13)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a09705283f7e7424794c48949909d8f0, type: 3}
@@ -1206,7 +1206,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3963738881500966583, guid: a09705283f7e7424794c48949909d8f0, type: 3}
       propertyPath: m_Name
-      value: Pick Up  (2)
+      value: Pick Up (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a09705283f7e7424794c48949909d8f0, type: 3}
@@ -1620,7 +1620,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3963738881500966583, guid: a09705283f7e7424794c48949909d8f0, type: 3}
       propertyPath: m_Name
-      value: Pick Up  (1)
+      value: Pick Up (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a09705283f7e7424794c48949909d8f0, type: 3}
@@ -2494,7 +2494,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3963738881500966583, guid: a09705283f7e7424794c48949909d8f0, type: 3}
       propertyPath: m_Name
-      value: Pick Up  (5)
+      value: Pick Up (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a09705283f7e7424794c48949909d8f0, type: 3}
@@ -2554,9 +2554,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 45
       objectReference: {fileID: 0}
+    - target: {fileID: 3963738881500966582, guid: a09705283f7e7424794c48949909d8f0, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3963738881500966583, guid: a09705283f7e7424794c48949909d8f0, type: 3}
       propertyPath: m_Name
       value: 'Pick Up '
+      objectReference: {fileID: 0}
+    - target: {fileID: 4283045257590227531, guid: a09705283f7e7424794c48949909d8f0, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a09705283f7e7424794c48949909d8f0, type: 3}
